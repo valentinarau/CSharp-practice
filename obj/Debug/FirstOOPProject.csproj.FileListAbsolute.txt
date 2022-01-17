@@ -1,0 +1,9 @@
+C:\Users\valen\Documents\Projects\FirstOOPProject\bin\Debug\values.csv
+C:\Users\valen\Documents\Projects\FirstOOPProject\bin\Debug\FirstOOPProject.exe.config
+C:\Users\valen\Documents\Projects\FirstOOPProject\bin\Debug\FirstOOPProject.exe
+C:\Users\valen\Documents\Projects\FirstOOPProject\bin\Debug\FirstOOPProject.pdb
+C:\Users\valen\Documents\Projects\FirstOOPProject\obj\Debug\FirstOOPProject.csproj.AssemblyReference.cache
+C:\Users\valen\Documents\Projects\FirstOOPProject\obj\Debug\FirstOOPProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\valen\Documents\Projects\FirstOOPProject\obj\Debug\FirstOOPProject.csproj.CoreCompileInputs.cache
+C:\Users\valen\Documents\Projects\FirstOOPProject\obj\Debug\FirstOOPProject.exe
+C:\Users\valen\Documents\Projects\FirstOOPProject\obj\Debug\FirstOOPProject.pdb
